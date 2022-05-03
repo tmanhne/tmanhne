@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tien Manh
 - 👀 I’m interested in Front-end developer
 - 🌱 I’m currently learning FPT university
-- 📫 <h2> How to reach me: </h2> 
+- 📫 How to reach me: 
 - Phone: 0971249103
 - Email: manhtthe140619@fpt.edu.vn
 - LinkedIn: https://www.linkedin.com/in/tmanh61/
