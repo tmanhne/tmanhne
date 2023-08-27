@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning FPT university
 - 📫 How to reach me: 
 - Phone: 0971249103
-- Email: manhtthe140619@fpt.edu.vn
+- Email: manh.t.tran.6100@gmail.com
 - LinkedIn: https://www.linkedin.com/in/tmanh61/
 - Github: https://github.com/tmanhne 
 
